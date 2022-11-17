@@ -1,0 +1,15 @@
+
+#Word{
+    color: black; 
+    text-align: center;
+    font-size: 70px
+}
+#Background{
+    background-color: black;
+}
+#Button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
